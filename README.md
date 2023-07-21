@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **imamarham10@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/imamarham108](bit.ly/imamarham108)
+- 📄 Know about my experiences [bit.ly/imamarham108](https://bit.ly/imamarham108)
 
 - ⚡ Fun fact **I occasionally indulge in writing Urdu poetry.**
 
