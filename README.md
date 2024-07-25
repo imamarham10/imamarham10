@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imamarham10" alt="imamarham10" /></a> </p>
 
-- 🔭 I’m currently working on [KickPik](https://github.com/imamarham10/KickPik)
+- 🔭 I’m currently working on [GreenBus](https://github.com/imamarham10/GreenBus)
 
 - 👨‍💻 All of my projects are available at [https://github.com/imamarham10](https://github.com/imamarham10)
 
-- 💬 Ask me about **react, node.js, express.js, tailwindcss, material-ui, mongodb**
+- 💬 Ask me about **react, node.js, express.js, tailwindcss, material-ui, MongoDB, java, SpringBoot**
 
 - 📫 How to reach me **imamarham10@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/arham-imam](https://bit.ly/arham-imam)
+- 📄 Know about my experiences [bit.ly/arham-imam](https://bit.ly/arham-sde)
 
 - ⚡ Fun fact **I occasionally indulge in writing Urdu poetry.**
 
