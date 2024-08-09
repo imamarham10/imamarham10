@@ -64,7 +64,7 @@ Knowing backend development allows me to seamlessly integrate frontend designs w
 
 ### 📊 GitHub Stats:
 [![Arham's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=imamarham10&theme=dark&count_private=true&show_icons=true)](https://github.com/arham10/github-readme-stats#gh-dark-mode-only)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-Singh-5&theme=dark)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=imamarham10&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imamarham10&count_private=true&show_icons=true&theme=dark)
 
 
