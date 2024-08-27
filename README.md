@@ -74,5 +74,3 @@ Knowing backend development allows me to seamlessly integrate frontend designs w
 
 
 ---
-
-<img src="https://github.com/imamarham10/imamarham10/blob/main/icons/header_.png" />
